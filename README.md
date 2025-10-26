@@ -1,6 +1,8 @@
 # Beastify-extension
 Adds a browser action icon to the toolbar. Click the button to choose a beast. The active tab's body content is then replaced with a picture of the chosen beast.
 
+
+Note:Please note that this will work only under firefox if you are aiming to trying to run in chrome you should change according to that browser
 The correct file heirarchy is :
 
 
