@@ -11,7 +11,7 @@ beastify/
     beasts/
         frog.jpg
         snake.jpg
-        turtle.jpg
+        giraffe.jpg
 
     content_scripts/
         beastify.js
